@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szhekov1718&color=brightgreen" alt="szhekov1718" /> </p>
 
 #  💫 About Me 
-🔭 I’m working as a <b>Software Engineer</b> at <b>Atos Bulgaria Competency Center</b>
+🔭 I’m working as a <b>Backend Software Engineer</b> with <b>C#, .NET, SQL and Azure.</b>
 
 🌱 I’m currently learning: **JavaScript**  + **React** + **TypeScript** 
 
