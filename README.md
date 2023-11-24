@@ -3,14 +3,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szhekov1718&color=brightgreen" alt="szhekov1718" /> </p>
 
 #  💫 About Me 
-🔭 I’m working as a <b>Backend Software Engineer</b> with <b>C#, .NET, SQL and Azure.</b>
+🔭 I’m working as a <b>Software Engineer</b> using <b>C#, .NET, JavaScript, React, SQL and Azure.</b>
 
-🌱 I’m currently learning: **JavaScript**  + **React** + **TypeScript** 
+🌱 I’m currently learning: **Node.js** + **TypeScript** 
 
 🎓 Education: 
 - **MSc Software Engineering** at The University of Library Studies and Information Technologies
 - **Alpha C# Program** at Telerik Academy
-- **BSc Finance** at **Univesity of Leeds**
+- **BSc Finance** at Univesity of Leeds
 
 📫 How to reach me: <b>s.zhekov1718@gmail.com</b>
 
