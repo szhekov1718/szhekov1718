@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szhekov1718&color=brightgreen" alt="szhekov1718" /> </p>
 
 #  💫 About Me 
-🔭 I’m working as a <b>Software Engineer</b> using <b>C#, JavaScript, React, SQL and Azure.</b>
+🔭 I’m working as a <b>Software Engineer</b> using <b>C#, JavaScript and SQL.</b>
 
-🌱 I’m currently learning: **Node.js** + **TypeScript** 
+🌱 I’m currently learning: **Node.js** + **React** + **TypeScript** 
 
 🎓 Education: 
 - **MSc Software Engineering** at The University of Library Studies and Information Technologies
